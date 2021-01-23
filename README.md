@@ -1,0 +1,3 @@
+# RegisterCommand
+Ez a script egy alap RegisterCommandos script, ebben elmagyarázom a dolgokat... 
+a link a videhoz: fivemscipthun@gmail.comq
